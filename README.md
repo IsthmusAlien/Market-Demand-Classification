@@ -48,3 +48,12 @@ This study explores the classification of real estate properties using key deman
 
 ## Conclusion:
 Classifying properties based on demand indicators proves to be a valuable approach in the real estate sector. By leveraging text preprocessing techniques, feature extraction, and supervised learning models, the system accurately categorizes clauses into low, medium and high. 
+
+![Screenshot 2025-04-10 231632](https://github.com/user-attachments/assets/d2e9f3e3-3eeb-4654-97c5-906c8d86e3c7)
+
+![Screenshot 2025-04-10 231728](https://github.com/user-attachments/assets/1c03e8aa-2153-42f1-829b-0ac3912a7cf3)
+
+![Screenshot 2025-04-10 231805](https://github.com/user-attachments/assets/8299dbe7-725e-4e08-9ad8-665190abb902)
+
+
+
